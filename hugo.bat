@@ -1,0 +1,1 @@
+G:\Downloads\hugo_extended_0.69.0_Windows-64bit\hugo %*

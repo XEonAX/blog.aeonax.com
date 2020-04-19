@@ -1,0 +1,23 @@
+baseURL = "https://blog.aeonax.com/"
+languageCode = "en-us"
+title = "Blog by AEonAX"
+theme = "m10c"
+publishDir = "docs"
+
+[params]
+  author = "AEonAX"
+  description = "Grower of Codes, Maker of Art, Hacker of softwares"
+  avatar = "./avatar.webp"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/xeonax"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/aeonax"
+
+[params.style]
+  darkestColor = "#333"
+  darkColor = "#212121"
+  lightColor = "#f5e3e0"
+  lightestColor = "#f5f5f5"
+  primaryColor = "#1b91ff"
