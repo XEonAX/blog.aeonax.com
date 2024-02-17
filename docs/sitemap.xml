@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://blog.aeonax.com/</loc>
-    <lastmod>2020-04-19T18:09:03+05:30</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2024-01-26T19:45:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.aeonax.com/posts/</loc>
+    <lastmod>2024-01-26T19:45:00+05:30</lastmod>
+  </url><url>
+    <loc>https://blog.aeonax.com/posts/publishing-video-game-2-year-journey/</loc>
+    <lastmod>2024-01-26T19:45:00+05:30</lastmod>
+  </url><url>
     <loc>https://blog.aeonax.com/posts/helloworld/</loc>
     <lastmod>2020-04-19T18:09:03+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.aeonax.com/posts/</loc>
-    <lastmod>2020-04-19T18:09:03+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.aeonax.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.aeonax.com/tags/</loc>
   </url>
-  
 </urlset>

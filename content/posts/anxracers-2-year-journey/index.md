@@ -1,10 +1,10 @@
 ---
 title: Seriously publishing a video game, my 2 year journey so far.
-description: 95-99.9% game projects started never get published
+description: A spaceship drift racing game development adventure
 date: 2024-01-26T19:45:00+05:30
-draft: false
-preview: /content/posts/anxracers-2-year-journey/hero.png
+preview: /posts/anxracers-2-year-journey/hero.png
 slug: publishing-video-game-2-year-journey
+published: true
 ---
 
 Content Warning: Too many words, distractions, programmer art, brackets, videos, geeky terms, hyperlinks, attempts at humor.
@@ -138,7 +138,7 @@ It seemed people were putting serious effort into testing it. After this I added
 
 N.B. Everyone needs friends who make memes
 
-![Meme](/content/posts/anxracers-2-year-journey/images/4.Meme.png)
+![Meme](/posts/anxracers-2-year-journey/images/4.Meme.png)
 <!-- ![](https://media.licdn.com/dms/image/D4D12AQHJMhzYFj0cig/article-inline_image-shrink_1000_1488/0/1698683545834?e=1711584000&v=beta&t=wu7FXTIo_GSA42wGKdbeSo_4q8-SfLfwwHJHY1WneGc) -->
 
   
@@ -199,7 +199,7 @@ After this I had to reset the leaderboards, since previous timings had become in
 
 Then I implemented a [web-based spaceship painter](https://studios.aeonax.com/racers/skinner.html#eyJVc2VyRGlzcGxheU5hbWUiOiJBbm9uLTEwOTkiLCJVc2VySWQiOiIxZGVhZmFkZS1iMDFkLTUwZGEtYzBkZS1hYzFkMWNmYWNhZGUiLCJTaGlwSWQiOiIwMDAwMDAwMi1mMDBkLWZlZWQtYmVlNS1iYTUxYzViMGQxY2UiLCJTa2luSWQiOiIxZGVhZmFkZS0wOWFmLTQyNzUtYjU0My1lMjgxYjEwMDgyNzMifQ==), (The actual skin editor needs to be launched from inside the game)
 
-![Skinner](images/5.Skinner.png)
+![Spaceship Skinner](/posts/anxracers-2-year-journey/images/5.Skinner.png)
 <!-- ![](https://media.licdn.com/dms/image/D4D12AQGPSzgC6DLp_g/article-inline_image-shrink_1000_1488/0/1698854846907?e=1711584000&v=beta&t=in5huUg85_R3DTaQTfKP48SEkPuh2eoMX51_Oa9VIVo) -->
 
 Svg-Based Skin Editor
@@ -208,7 +208,8 @@ Svg-Based Skin Editor
 
 The Game was shown 2nd in New and Popular Racing Games category of Itchio on 21st Aug 2022.
 
-![](https://media.licdn.com/dms/image/D4D12AQEKywR4e5dWbQ/article-inline_image-shrink_400_744/0/1698855158773?e=1711584000&v=beta&t=LQbaGYjh8xx1-FLQSSHgX_eDE8wRfesHK7lkZlmr0M0)
+![Itchio Topper](/posts/anxracers-2-year-journey/images/6.Topper.jpg)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQEKywR4e5dWbQ/article-inline_image-shrink_400_744/0/1698855158773?e=1711584000&v=beta&t=LQbaGYjh8xx1-FLQSSHgX_eDE8wRfesHK7lkZlmr0M0) -->
 
   
 
@@ -236,7 +237,8 @@ Players finally started learning the Flight Assist Off trick (Which didnt slow d
 
 Around 10th September 2022, the game got 600th player's registration.
 
-![](https://media.licdn.com/dms/image/D4D12AQEifx5pbt87dQ/article-inline_image-shrink_1000_1488/0/1698857485008?e=1711584000&v=beta&t=Di0sX6HF2xKvxY6pZt-6MzTssrAPUPictfWt4LyIeGM)
+![600th Registration](/posts/anxracers-2-year-journey/images/7.600th.jpg)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQEifx5pbt87dQ/article-inline_image-shrink_1000_1488/0/1698857485008?e=1711584000&v=beta&t=Di0sX6HF2xKvxY6pZt-6MzTssrAPUPictfWt4LyIeGM) -->
 
   
 
@@ -266,17 +268,19 @@ Created the iconic [A-01 Race track](https://www.youtube.com/playlist?list=PLpCJ
 
 Improved the Telegram bot, to have interactive buttons.
 
-![](https://media.licdn.com/dms/image/D4D12AQEG2o6JYAyRiA/article-inline_image-shrink_400_744/0/1703343223292?e=1711584000&v=beta&t=tE3Mzgtr3LQHmjtm3RLRGD1BkoyhgwriFrae5uqqo8E)
+![Bot Improvement 1](/posts/anxracers-2-year-journey/images/8.Bot.png)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQEG2o6JYAyRiA/article-inline_image-shrink_400_744/0/1703343223292?e=1711584000&v=beta&t=tE3Mzgtr3LQHmjtm3RLRGD1BkoyhgwriFrae5uqqo8E) -->
 
 Ability to publish/unpublish tracks on demand, as well as Set Race of the Day track.
 
-![](https://media.licdn.com/dms/image/D4D12AQFh3wMoW6XtyQ/article-inline_image-shrink_400_744/0/1703343312429?e=1711584000&v=beta&t=IbWTBJ9jBitl3TFV40ZenTDF0llJheFhVpTYQapdhHE)
+![Bot Improvement 2](/posts/anxracers-2-year-journey/images/9.Bot.png)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQFh3wMoW6XtyQ/article-inline_image-shrink_400_744/0/1703343312429?e=1711584000&v=beta&t=IbWTBJ9jBitl3TFV40ZenTDF0llJheFhVpTYQapdhHE) -->
 
 Same for spaceships
 
 Also added notifications to Discord
-
-![](https://media.licdn.com/dms/image/D4D12AQEcl3soa4uQLw/article-inline_image-shrink_400_744/0/1703342929488?e=1711584000&v=beta&t=H4gRhhPAKipvzzoZxjBUy5zptXksNzpOa100qx_ELRo)
+![Discord FOMO](/posts/anxracers-2-year-journey/images/10.Disc.png)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQEcl3soa4uQLw/article-inline_image-shrink_400_744/0/1703342929488?e=1711584000&v=beta&t=H4gRhhPAKipvzzoZxjBUy5zptXksNzpOa100qx_ELRo) -->
 
 Competitive server members get notified about latest world records
 
@@ -328,23 +332,27 @@ The game published to iOS App Store just worked™
 
 On 21st Aug 2023, moved the game from open beta testing to production release on Google Play Store. On that day Google sent around 30 new users to the game, and we crossed total 1600 player registrations in-game
 
-![](https://media.licdn.com/dms/image/D4D12AQFekdMWMKjCXQ/article-inline_image-shrink_400_744/0/1702658560909?e=1711584000&v=beta&t=Sp8tLOyF_nVNcXJ-fuQfAL-KHNsCDSTMkZZK8Qet9O0)
+![1600th Registration](/posts/anxracers-2-year-journey/images/11.1600th.jpg)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQFekdMWMKjCXQ/article-inline_image-shrink_400_744/0/1702658560909?e=1711584000&v=beta&t=Sp8tLOyF_nVNcXJ-fuQfAL-KHNsCDSTMkZZK8Qet9O0) -->
 
 Captured on the day the game went into production on Google Play Store, note the peak at the end.
 
 On 27th Aug 2023, clicked the big green "Publish Now" button on steam
 
-![](https://media.licdn.com/dms/image/D4D12AQGmJaeBSN8p1Q/article-inline_image-shrink_1000_1488/0/1702659297529?e=1711584000&v=beta&t=IYtMyWWZVfkFdZB7MQWeyD2kOXLxVpClvsEPO7J0f74)
+![Steam Release Button](/posts/anxracers-2-year-journey/images/12.Steam.png)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQGmJaeBSN8p1Q/article-inline_image-shrink_1000_1488/0/1702659297529?e=1711584000&v=beta&t=IYtMyWWZVfkFdZB7MQWeyD2kOXLxVpClvsEPO7J0f74) -->
 
 Many indie game projects never reach this stage.
 
 One thing of note, once you release the game on Steam, You receive many mails from allegedly in-active streamers saying, that want to start streaming again, and find your game perfect to start streaming again. They want at least 2 steam keys, so that they can play the game with their best friend on the stream. You can safely ignore this emails/spam them back broken keys or (1 working and 1 broken for maximum damage).
 
-![](https://media.licdn.com/dms/image/D4D12AQFQZy5NfKFVOQ/article-inline_image-shrink_400_744/0/1704218157822?e=1711584000&v=beta&t=trLAtdu2FG8iV1yQ6QcKf4uKqca_N9LJEihMlRrtQ58)
+![Spam 1](/posts/anxracers-2-year-journey/images/13.Spam.png)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQFQZy5NfKFVOQ/article-inline_image-shrink_400_744/0/1704218157822?e=1711584000&v=beta&t=trLAtdu2FG8iV1yQ6QcKf4uKqca_N9LJEihMlRrtQ58) -->
 
 Nothing was whispered on Twitch. It doesn't matter coz this imposters don't have access to this twitch accounts.
 
-![](https://media.licdn.com/dms/image/D4D12AQF-hX0bVxALUA/article-inline_image-shrink_400_744/0/1704218361738?e=1711584000&v=beta&t=H5-q6gd8EmylschbYglbTkGS9l_USDa7frjBKBM2eK4)
+![Spam 2](/posts/anxracers-2-year-journey/images/14.Spam.png)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQF-hX0bVxALUA/article-inline_image-shrink_400_744/0/1704218361738?e=1711584000&v=beta&t=H5-q6gd8EmylschbYglbTkGS9l_USDa7frjBKBM2eK4) -->
 
 Again no keys were sent from my side. They don't complain about it either.
 
@@ -373,7 +381,8 @@ Post release continued on fixing bugs and adding few features.
 
 A notable one, [Medals were added](https://store.steampowered.com/news/app/2196780?emclan=103582791472905212&emgid=5562564282369664332), since I got many requests for this. Players wanted a sense of achievement when they put in some effort. It shouldn't be necessary to be in top 3 world wide. Good enough time from good enough effort should be rewarded.
 
-![](https://media.licdn.com/dms/image/D4D12AQFO7fxRwMIcqA/article-inline_image-shrink_400_744/0/1703337585983?e=1711584000&v=beta&t=PFoxViCMRt6cWjztek6h0i0KxwnPele6oQLT5s8qOlI)
+![Medals](/posts/anxracers-2-year-journey/images/15.Medals.jpg)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQFO7fxRwMIcqA/article-inline_image-shrink_400_744/0/1703337585983?e=1711584000&v=beta&t=PFoxViCMRt6cWjztek6h0i0KxwnPele6oQLT5s8qOlI) -->
 
   
 
@@ -388,37 +397,39 @@ I learnt a lot while working on this game, like 3D Modelling and [Video Editing]
 
 Some numbers/charts from my own self-implemented analytics are shown below as well as observations if any (Screenshots from [Metabase](https://www.metabase.com/) connected to my game server):
 
-![](https://media.licdn.com/dms/image/D4D12AQFow3xYzQzYBg/article-inline_image-shrink_400_744/0/1703440337074?e=1711584000&v=beta&t=aeKsvNE2lvltqVjDj-ZAdFn__iZB6fc0jUvpU5X4Zq0)
+![9000th Registration](/posts/anxracers-2-year-journey/images/16.9000th.png)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQFow3xYzQzYBg/article-inline_image-shrink_400_744/0/1703440337074?e=1711584000&v=beta&t=aeKsvNE2lvltqVjDj-ZAdFn__iZB6fc0jUvpU5X4Zq0) -->
 
 Reached 9K Total Registrations on Christmas Eve of 2023. The steeper climb started after Google Play Production Release.
 
   
-
-![](https://media.licdn.com/dms/image/D4D12AQHywy6FjPFJPQ/article-inline_image-shrink_400_744/0/1703440562608?e=1711584000&v=beta&t=lBwt1Z3WCWfQCxGAvrZ8oGxjJejDDy7V5XxiPnlPNZQ)
+![Trivia Anonymoux](/posts/anxracers-2-year-journey/images/17.Trivia.png)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQHywy6FjPFJPQ/article-inline_image-shrink_400_744/0/1703440562608?e=1711584000&v=beta&t=lBwt1Z3WCWfQCxGAvrZ8oGxjJejDDy7V5XxiPnlPNZQ) -->
 
 Good to see people caring about their privacy. (Or they are just lazy to fill the registration details)
 
-  
 
-![](https://media.licdn.com/dms/image/D4D12AQFKCcLsBsFZIQ/article-inline_image-shrink_1000_1488/0/1703339534854?e=1711584000&v=beta&t=jaA0RQUIB-dDb7R9FAt8KqRppqAF0JyZYvglzY1VbvE)
+![Trivia Devices](/posts/anxracers-2-year-journey/images/18.Trivia.png)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQFKCcLsBsFZIQ/article-inline_image-shrink_1000_1488/0/1703339534854?e=1711584000&v=beta&t=jaA0RQUIB-dDb7R9FAt8KqRppqAF0JyZYvglzY1VbvE) -->
 
 Android TVs and Set-Top boxes seems to be in serious need of more games like mine
 
   
 
-![](https://media.licdn.com/dms/image/D4D12AQF60_P-qEmj2g/article-inline_image-shrink_1000_1488/0/1703340120347?e=1711584000&v=beta&t=YzxqIDzm5PHnhISYmSMHbxxVm-AlWYAWFppTrxZA2F0)
+![Trivia Countries](/posts/anxracers-2-year-journey/images/19.Trivia.png)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQF60_P-qEmj2g/article-inline_image-shrink_1000_1488/0/1703340120347?e=1711584000&v=beta&t=YzxqIDzm5PHnhISYmSMHbxxVm-AlWYAWFppTrxZA2F0) -->
 
 I have no idea why the game is so famous in Vietnam. I guess they have lots of Android TVs there, and they like a free game.
 
   
-
-![](https://media.licdn.com/dms/image/D4D12AQGnWR08cPe06A/article-inline_image-shrink_400_744/0/1703341465941?e=1711584000&v=beta&t=EGAi9Sil2CkOCqkxEBTWcE9vjd6a25fsjoa5mMlWrnM)
+![Trivia Ships](/posts/anxracers-2-year-journey/images/20.Trivia.png)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQGnWR08cPe06A/article-inline_image-shrink_400_744/0/1703341465941?e=1711584000&v=beta&t=EGAi9Sil2CkOCqkxEBTWcE9vjd6a25fsjoa5mMlWrnM) -->
 
 Players liked to race in the meme spaceship (HyperBoi) more than the slower official spaceships
 
   
-
-![](https://media.licdn.com/dms/image/D4D12AQEEEiMOIGAr0g/article-inline_image-shrink_400_744/0/1703342080616?e=1711584000&v=beta&t=kazK-1ZJWosbs9wZldxgw3EicrCVAFrMJ2pso0iVAlw)
+![Trivia Events](/posts/anxracers-2-year-journey/images/20.Trivia.png)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQEEEiMOIGAr0g/article-inline_image-shrink_400_744/0/1703342080616?e=1711584000&v=beta&t=kazK-1ZJWosbs9wZldxgw3EicrCVAFrMJ2pso0iVAlw) -->
 
 The above chart exposes a lots of trivia.
 
