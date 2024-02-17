@@ -97,6 +97,7 @@ I then started developing this in [Godot](https://godotengine.org/) because I re
 Shared it few friends, few of them played it and liked it.
 
 And one even offered to create music for the game.
+
 ![Mibris](/posts/anxracers-2-year-journey/images/1.Mib.png)
 
   
@@ -279,6 +280,7 @@ Ability to publish/unpublish tracks on demand, as well as Set Race of the Day tr
 Same for spaceships
 
 Also added notifications to Discord
+
 ![Discord FOMO](/posts/anxracers-2-year-journey/images/10.Disc.png)
 <!-- ![](https://media.licdn.com/dms/image/D4D12AQEcl3soa4uQLw/article-inline_image-shrink_400_744/0/1703342929488?e=1711584000&v=beta&t=H4gRhhPAKipvzzoZxjBUy5zptXksNzpOa100qx_ELRo) -->
 
@@ -428,7 +430,7 @@ I have no idea why the game is so famous in Vietnam. I guess they have lots of A
 Players liked to race in the meme spaceship (HyperBoi) more than the slower official spaceships
 
   
-![Trivia Events](/posts/anxracers-2-year-journey/images/20.Trivia.png)
+![Trivia Events](/posts/anxracers-2-year-journey/images/21.Trivia.png)
 <!-- ![](https://media.licdn.com/dms/image/D4D12AQEEEiMOIGAr0g/article-inline_image-shrink_400_744/0/1703342080616?e=1711584000&v=beta&t=kazK-1ZJWosbs9wZldxgw3EicrCVAFrMJ2pso0iVAlw) -->
 
 The above chart exposes a lots of trivia.
@@ -482,8 +484,9 @@ I think its now OK to say "**_Mission Accomplished_" of publishing the game to m
 
 **Thank You for Reading! Also Wish You a Happy and Prosperous New Year!!!**
 
-[https://studios.aeonax.com/racers/](https://studios.aeonax.com/racers/)
+Get/Try the game here: [https://studios.aeonax.com/racers/](https://studios.aeonax.com/racers/)
 
 Credits from the game:
 
-![](https://media.licdn.com/dms/image/D4D12AQHyzkCJxathlQ/article-inline_image-shrink_1500_2232/0/1704219110182?e=1711584000&v=beta&t=h55AcfJz6dsytsCWEMxUFgHiwBVizD5EVnAhZE8SpyA)
+![Credits](/posts/anxracers-2-year-journey/images/22.Credits.png)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQHyzkCJxathlQ/article-inline_image-shrink_1500_2232/0/1704219110182?e=1711584000&v=beta&t=h55AcfJz6dsytsCWEMxUFgHiwBVizD5EVnAhZE8SpyA) -->
