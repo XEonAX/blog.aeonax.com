@@ -1,9 +1,10 @@
 ---
-title: "Seriously publishing a video game, my 2 year journey so far."
+title: Seriously publishing a video game, my 2 year journey so far.
 description: 95-99.9% game projects started never get published
 date: 2024-01-26T19:45:00+05:30
 draft: false
-image: hero.png
+preview: /content/posts/anxracers-2-year-journey/hero.png
+slug: publishing-video-game-2-year-journey
 ---
 
 Content Warning: Too many words, distractions, programmer art, brackets, videos, geeky terms, hyperlinks, attempts at humor.
@@ -96,8 +97,7 @@ I then started developing this in [Godot](https://godotengine.org/) because I re
 Shared it few friends, few of them played it and liked it.
 
 And one even offered to create music for the game.
-
-![](https://media.licdn.com/dms/image/D4D12AQGvpKdXpL8WlA/article-inline_image-shrink_400_744/0/1703183214839?e=1711584000&v=beta&t=7KgsW5h2EwnkbccV4n_RFXwVLX3coffecz-ZL5TryeU)
+![Mibris](/posts/anxracers-2-year-journey/images/1.Mib.png)
 
   
 
@@ -108,8 +108,8 @@ Added an online leaderboard and a basic track-editor in a week and released a be
 The game server stored data in LiteDB (an embeddable NoSQL .NET DB)
 
 I also integrated a telegram bot to administrate the game server.
-
-![](https://media.licdn.com/dms/image/D4D12AQFrNYtCZ1h0Eg/article-inline_image-shrink_400_744/0/1703171841965?e=1711584000&v=beta&t=zwp_ViK559X6nCF95oR027CxiGDQnon-psln1Oqt3nk)
+![Telegram Bot](/posts/anxracers-2-year-journey/images/2.Bot.png)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQFrNYtCZ1h0Eg/article-inline_image-shrink_400_744/0/1703171841965?e=1711584000&v=beta&t=zwp_ViK559X6nCF95oR027CxiGDQnon-psln1Oqt3nk) -->
 
 Administrating the game server using telegram
 
@@ -123,7 +123,8 @@ Note the Android 12's Material You inspired rounded corner UI.
 
 5 days later a friend discovered an exploit
 
-![](https://media.licdn.com/dms/image/D4D12AQFyqjzz-AI_gA/article-inline_image-shrink_400_744/0/1698682400340?e=1711584000&v=beta&t=-6ZWd4rf440wtAHpMQJkL1d80XJHrC-8wEs-YVxpIEo)
+![Timur](/posts/anxracers-2-year-journey/images/3.Exploit.jpg)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQFyqjzz-AI_gA/article-inline_image-shrink_400_744/0/1698682400340?e=1711584000&v=beta&t=-6ZWd4rf440wtAHpMQJkL1d80XJHrC-8wEs-YVxpIEo) -->
 
 Speedrunners/Bug Exploiters when they discover time traveling.
 
@@ -137,7 +138,8 @@ It seemed people were putting serious effort into testing it. After this I added
 
 N.B. Everyone needs friends who make memes
 
-![](https://media.licdn.com/dms/image/D4D12AQHJMhzYFj0cig/article-inline_image-shrink_1000_1488/0/1698683545834?e=1711584000&v=beta&t=wu7FXTIo_GSA42wGKdbeSo_4q8-SfLfwwHJHY1WneGc)
+![Meme](/content/posts/anxracers-2-year-journey/images/4.Meme.png)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQHJMhzYFj0cig/article-inline_image-shrink_1000_1488/0/1698683545834?e=1711584000&v=beta&t=wu7FXTIo_GSA42wGKdbeSo_4q8-SfLfwwHJHY1WneGc) -->
 
   
 
@@ -197,7 +199,8 @@ After this I had to reset the leaderboards, since previous timings had become in
 
 Then I implemented a [web-based spaceship painter](https://studios.aeonax.com/racers/skinner.html#eyJVc2VyRGlzcGxheU5hbWUiOiJBbm9uLTEwOTkiLCJVc2VySWQiOiIxZGVhZmFkZS1iMDFkLTUwZGEtYzBkZS1hYzFkMWNmYWNhZGUiLCJTaGlwSWQiOiIwMDAwMDAwMi1mMDBkLWZlZWQtYmVlNS1iYTUxYzViMGQxY2UiLCJTa2luSWQiOiIxZGVhZmFkZS0wOWFmLTQyNzUtYjU0My1lMjgxYjEwMDgyNzMifQ==), (The actual skin editor needs to be launched from inside the game)
 
-![](https://media.licdn.com/dms/image/D4D12AQGPSzgC6DLp_g/article-inline_image-shrink_1000_1488/0/1698854846907?e=1711584000&v=beta&t=in5huUg85_R3DTaQTfKP48SEkPuh2eoMX51_Oa9VIVo)
+![Skinner](images/5.Skinner.png)
+<!-- ![](https://media.licdn.com/dms/image/D4D12AQGPSzgC6DLp_g/article-inline_image-shrink_1000_1488/0/1698854846907?e=1711584000&v=beta&t=in5huUg85_R3DTaQTfKP48SEkPuh2eoMX51_Oa9VIVo) -->
 
 Svg-Based Skin Editor
 
