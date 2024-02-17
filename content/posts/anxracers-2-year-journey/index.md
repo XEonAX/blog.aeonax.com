@@ -3,7 +3,7 @@ title: Seriously publishing a video game, my 2 year journey so far.
 description: A spaceship drift racing game development adventure
 date: 2024-01-26T19:45:00+05:30
 preview: /posts/anxracers-2-year-journey/hero.png
-slug: publishing-video-game-2-year-journey
+slug: anxracers-2-year-journey
 published: true
 ---
 
