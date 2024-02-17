@@ -491,6 +491,3 @@ Credits from the game:
 ![Credits](/posts/anxracers-2-year-journey/images/22.Credits.png)
 <!-- ![](https://media.licdn.com/dms/image/D4D12AQHyzkCJxathlQ/article-inline_image-shrink_1500_2232/0/1704219110182?e=1711584000&v=beta&t=h55AcfJz6dsytsCWEMxUFgHiwBVizD5EVnAhZE8SpyA) -->
 
-
-{{ template "_internal/disqus.html" . }}
-
